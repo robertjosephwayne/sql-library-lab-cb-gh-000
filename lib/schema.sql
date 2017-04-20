@@ -1,3 +1,5 @@
+-- noinspection SqlNoDataSourceInspectionForFile
+
 
 -- All tables must have a PRIMARY KEY on the id
 
